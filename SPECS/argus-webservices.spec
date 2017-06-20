@@ -35,3 +35,5 @@ cp %{_topdir}/ArgusWebServices/target/argus-webservices-*.war %{_stagerootdir}/%
 
 %post
 echo "Installation complete."
+
+#test
